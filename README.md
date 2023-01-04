@@ -9,7 +9,8 @@ Junior Web Developer and Ukulele player
 * 🧠  I'm learning NodeJS, NextJS and Swift
 * ⚡  I enjoy spending my free time plaiyng video games and hanging out with my friends and girlfriend.
 
-### Skills
+
+## Skills
 
 
 <p align="left">
@@ -28,11 +29,11 @@ Junior Web Developer and Ukulele player
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.dev.to/jorgecontrerasostos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/jorgecontrerasostos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jorge-contreras-ostos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/10421832/jorge-contreras-ostos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
@@ -44,6 +45,6 @@ Junior Web Developer and Ukulele player
 
 <a href="https://github.com/jorgecontrerasostos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecontrerasostos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/jorgecontreras"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
