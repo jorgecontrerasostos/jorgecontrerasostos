@@ -47,4 +47,4 @@ Junior Web Developer, ukulele player and baseball enthusiast.
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/jorgecontreras"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" target="_blank"/></a>
+<a href="https://www.buymeacoffee.com/jorgecontreras" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
