@@ -6,9 +6,8 @@ Junior Web Developer, ukulele player and baseball enthusiast.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [jorgecontrerasostos@gmail.com](mailto:jorgecontrerasostos@gmail.com)
-* 🧠  I'm learning NodeJS, NextJS and Swift
-* ⚡  I enjoy spending my free time plaiyng video games and hanging out with my friends and girlfriend.
-
+* 🧠  I'm currently learning NodeJS, NextJS and Data Analysis
+* ⚡  I enjoy spending my free time plaiyng video games and hanging out with my friends.
 
 ## Skills
 
