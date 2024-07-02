@@ -1,12 +1,12 @@
 Hi! I'm Jorge Contreras
 =======================================================================================================================================
 
-Junior Web Developer, ukulele player and baseball enthusiast.
+Computer Systems Engineer, ukulele player and baseball enthusiast.
 ---------------------------------------
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [jorgecontrerasostos@gmail.com](mailto:jorgecontrerasostos@gmail.com)
-* 🧠  I'm currently learning NodeJS, NextJS and Data Analysis
+* 🧠  I'm currently doing a mster degree in Data Analysis
 * ⚡  I enjoy spending my free time plaiyng video games and hanging out with my friends.
 
 ## Skills
