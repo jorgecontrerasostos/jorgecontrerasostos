@@ -8,11 +8,12 @@ when i'm not working, you can find me watching the Boston Red Sox.
 ## toolbox
 
 - Python
-- Pandas
+- SQL
 - PySpark
-- Scikit-Learn
-- Seaborn
+- Airflow
+- DBT
 - Tableau
+- Power BI
 
 ## coffee?
 
