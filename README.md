@@ -7,13 +7,12 @@ when i'm not working, you can find me watching the Boston Red Sox.
 
 ## toolbox
 
-- Python
+- python
 - SQL
-- PySpark
-- Airflow
-- DBT
-- Tableau
-- Power BI
+- pyspark
+- dagster
+- dbt
+- tableau
 
 ## coffee?
 
