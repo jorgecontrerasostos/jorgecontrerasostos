@@ -1,7 +1,7 @@
 hi! i'm Jorge
 =======================================================================================================================================
 
-data analyst in progress with a passion for data, machine learning and baseball.
+data engineer with a passion for data, machine learning and baseball.
 
 when i'm not working, you can find me watching the Boston Red Sox.
 
